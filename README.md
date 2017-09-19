@@ -1,5 +1,5 @@
 # Restaurants-Recommendation
-This is a dynamic webpage for users to searcdh restaurants. 
+This is a dynamic webpage for users to search restaurants. 
   1. Created Java servlets with RESTful APIs to handle HTTP requests adn responses
   2. Built relational and NoSQL database to capture real bussiness data from Yelp API
   3. Designed a algorithms to implement business recommendation.
